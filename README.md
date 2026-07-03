@@ -65,6 +65,9 @@ User Query ──► MMR Similarity Search ──► Retrieved Chunks ──►�
 7. If the answer indicates missing context, an automatic retry with more chunks is triggered
 
 ---
+## Screenshots:
+<img width="953" height="512" alt="docuchat" src="https://github.com/user-attachments/assets/207c92cd-097a-4b38-be3d-120ab5d81cc1" />
+<img width="959" height="481" alt="Screenshot 2026-07-03 143251" src="https://github.com/user-attachments/assets/c6645f33-6081-4fb1-956c-122ce1ca2132" />
 
 ## ⚙️ Setup & Run Locally
 
