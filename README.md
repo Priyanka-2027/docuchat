@@ -6,7 +6,7 @@ A RAG (Retrieval-Augmented Generation) powered PDF chatbot that lets you upload 
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-docuchat.streamlit.app/)
 
 ---
 
